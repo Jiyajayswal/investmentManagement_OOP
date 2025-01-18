@@ -40,7 +40,7 @@ This assignment implements an investment management system where users can buy, 
       MutualFund.java
       Main.java
       Portfolio.java               
-      README.md
+    README.md  
     investments.txt
 
 ## Compilation and Execution 
