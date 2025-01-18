@@ -1,9 +1,9 @@
 # CIS*2430 (Fall 2024) Assignment 
 
 
-# Name: Jiya Jayswal
-# Compilation: javac ePortfolio/*.java
-# Run Command: java ePortfolio.Main investments.txt
+### Name: Jiya Jayswal
+### Compilation: javac ePortfolio/*.java
+### Run Command: java ePortfolio.Main investments.txt
 
 ### Overview
 This assignment implements an investment management system where users can buy, sell, and search for stocks and mutual funds. The core components of this system are based on an object-oriented design using inheritance to handle investments as a common superclass and `Stock` and `MutualFund` as subclasses. The system supports efficient searching of investments using a `HashMap` index.
