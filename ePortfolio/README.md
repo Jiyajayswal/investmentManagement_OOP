@@ -1,4 +1,4 @@
-# README - CIS*2430 (Fall 2024) Assignment 
+# CIS*2430 (Fall 2024) Assignment 
 
 
 # Name: Jiya Jayswal
@@ -33,7 +33,6 @@ This assignment implements an investment management system where users can buy, 
    - Supports specifying the file for reading and writing investment data via command-line arguments.
 
 ## Directory structure
-  /jjayswal_A2
     /doc
     /ePortfolio   
       Investment.java                
